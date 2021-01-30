@@ -1,0 +1,23 @@
+table{
+    border-collapse: collapse;
+    border: solid 2px white;
+}
+
+td, th{
+    border: solid 2px;
+    padding: 40px;
+}
+
+td:hover{
+    background-color: blue;
+}
+
+caption{
+    caption-side: bottom;
+    text-align: right;
+}
+
+img{
+    width: 20px;
+    padding: 0;
+}
